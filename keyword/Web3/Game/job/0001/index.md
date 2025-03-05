@@ -21,7 +21,8 @@ Add Web3 Blockchain functionality:
 - Token withdrawal from the game to blockchain account
 - Integrate Blockchain Node API
 - Integrate Galxe API
- 
+- smart-contracts with some FinTech logic to handle payouts
+- 
 Tech Libs & Frameworks:
 - `ThreeJS`
 - `Web3.js`
@@ -57,5 +58,5 @@ Full description will be provided during an interview.
 - `API`
 - `SDK`
 - `HTML`
-  
+- `Unity`  
 . 
