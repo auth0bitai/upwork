@@ -3,12 +3,12 @@
 
 **Job Title**: 
 
-Sr. Node.js & Blockchain Developer for `Web2` to `Web3` 2D & 3D Browser Game migration
+Sr. Node.js & Blockchain Developer for `Web2` to `Web3` 2D & 3D Browser Game migration and `AI`
 
 
 **Job Description**: 
 
-I would like to move browser game from `Web2` to `Web3`.
+I would like to move browser game from `Web2` to `Web3` with `AI` features on board.
 
 The ideal candidate will have a strong background in blockchain technologies, particularly `Avalanche`, `Sonic`, `Ethereum`, `Polygon`, `Solana` and a passion for gaming.
 
@@ -22,7 +22,14 @@ Add Web3 Blockchain functionality:
 - Integrate Blockchain Node API
 - Integrate Galxe API
 - smart-contracts with some FinTech logic to handle payouts
-- 
+- AI
+- in-game currency
+- NFT Minting
+- NFT Integration
+- P2E (play-to-earn) Game Economy
+- DAO governance
+- Game Marketplace
+
 Tech Libs & Frameworks:
 - `ThreeJS`
 - `Web3.js`
@@ -58,5 +65,8 @@ Full description including Website & Game Platform specifications and Security C
 - `API`
 - `SDK`
 - `HTML`
-- `Unity`  
+- `Unity`
+- `Artificial Intelligence`
+- `AI App Development`
+- `AI Agent Development`
 . 
