@@ -3,7 +3,7 @@
 
 **Job Title**: 
 
-Sr. Node.js & Blockchain Developer for `Web2` to `Web3` 2D & 3D Browser Game migration and `AI`
+Sr. Node.js & Blockchain Developer for `Web2` to `Web3` 2D & 3D Browser Game migration with `AI` integration
 
 
 **Job Description**: 
