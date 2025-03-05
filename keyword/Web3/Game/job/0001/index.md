@@ -28,7 +28,7 @@ Tech Libs & Frameworks:
 - `Web3.js`
 - and all other in the `Skills & Expertise` Section
 
-Full description will be provided during an interview.
+Full description including Website & Game Platform specifications and Security Considerations will be provided during an interview.
 
 
 **Job Keywods (Skills and Expertise)**:
